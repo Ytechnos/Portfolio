@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const FooterContainer = styled.footer`
   color: #fff;
-  background-color: #333;
+  background-color: #00bfff;
 `;
 
 const Copyright = styled.p`
